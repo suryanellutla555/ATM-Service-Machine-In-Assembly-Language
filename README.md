@@ -25,6 +25,6 @@ This repository contains a curated list of my academic projects developed during
 
 ---
 
-## 📌 About
+## About
 
 These projects were developed as part of my undergraduate curriculum, internships, and independent learning. Uploaded here in 2025 to showcase hands-on capabilities to recruiters and collaborators.
