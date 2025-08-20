@@ -1,10 +1,10 @@
-# 🎓 B.Tech Projects Portfolio
+# B.Tech Projects Portfolio
 
 This repository contains a curated list of my academic projects developed during my Bachelor's in Computer Science. Each project demonstrates my hands-on skills in development, cloud deployment, analytics, and problem-solving.
 
 ---
 
-## 🧩 Project Index
+## Project Index
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
@@ -17,7 +17,7 @@ This repository contains a curated list of my academic projects developed during
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 - Python, PHP, HTML, CSS, JavaScript
 - MySQL, Flask, Bootstrap, AWS
